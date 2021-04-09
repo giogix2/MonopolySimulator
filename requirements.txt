@@ -1,0 +1,9 @@
+# Jupyter notebooks
+# pandas
+# scipy
+# tqdm
+# seaborn
+
+
+# Tests
+# pytest
